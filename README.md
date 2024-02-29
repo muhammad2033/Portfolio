@@ -1,2 +1,2 @@
-# Portfolio
-Portfolio is all about Python and AI
+# portfolio
+This portfolio is all about Python and AI.
